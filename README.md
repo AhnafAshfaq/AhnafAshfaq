@@ -15,13 +15,15 @@ I am currently focused on navigating my path through SIEM, log analysis, threat 
 | Linux for security operations                 | |
 
 ## Tools
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
+
 ### SIEM
 <div>
-  <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=wazuh&logoColor=white" />
 </div>
 
 
